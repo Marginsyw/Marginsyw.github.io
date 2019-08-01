@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://marginsyw.github.io/</id>
+    <title>Margin&apos;s Blog</title>
+    <updated>2019-08-01T11:09:36.138Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://marginsyw.github.io/"/>
+    <link rel="self" href="https://marginsyw.github.io//atom.xml"/>
+    <subtitle>留存的时间</subtitle>
+    <logo>https://marginsyw.github.io//images/avatar.png</logo>
+    <icon>https://marginsyw.github.io//favicon.ico</icon>
+    <rights>All rights reserved 2019, Margin&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[云]]></title>
+        <id>https://marginsyw.github.io//post/hello-gridea</id>
+        <link href="https://marginsyw.github.io//post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://marginsyw.github.io//post-images/1564657586441.jpg" alt=""><br>
+2019-7-30<br>
+<img src="https://marginsyw.github.io//post-images/1564657596943.jpg" alt=""><br>
+2019-8-1</p>
+]]></content>
+    </entry>
+</feed>
